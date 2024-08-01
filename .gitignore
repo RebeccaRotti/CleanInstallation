@@ -19,3 +19,4 @@ Homestead.json
 
 .DS_Store
 composer.phar
+.idea/*
